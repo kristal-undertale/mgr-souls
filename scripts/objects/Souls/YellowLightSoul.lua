@@ -1,8 +1,3 @@
-print("----------")
-print("----------")
-print("MAIN SCRIPT")
-print("----------")
-print("----------")
 local YellowSoul, super = Class(LightSoul)
 
 function YellowSoul:init(x, y, undertale, angle)
